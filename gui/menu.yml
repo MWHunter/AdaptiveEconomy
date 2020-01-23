@@ -1,4 +1,4 @@
-slots: 9
+slots: 27
 name: 'Abyss Menu'
 0:
   item: GRASS_BLOCK
@@ -6,20 +6,89 @@ name: 'Abyss Menu'
   name: '&bTeleport to your island'
   action: command
   command: /is home
-3:
-  item: WHITE_BED
+1:
+  item: CLOCK
   amount: 1
-  name: '&bBuy island homes'
+  name: '&bManage island protection'
+  action: command
+  command: /is settings
+7:
+  item: PLAYER_HEAD
+  amount: 1
+  name: '&bView top islands'
+  action: command
+  command: /is top
+8:
+  item: EMERALD
+  amount: 1
+  name: '&bView top balance'
+  action: command
+  command: /baltop
+9:
+  item: CHEST
+  amount: 1
+  name: '&bAuctions'
+  action: command
+  command: /ah
+10:
+  item: DIAMOND_HOE
+  amount: 1
+  name: '&bIsland expansions'
   action: menu
-  menu: homesMenu
+  menu: expansion
+  permissionmenu: expansionFirst
+  permission: abyssskyblock.islanddiscount
+12:
+  item: OAK_LOG
+  amount: 1
+  name: '&bWood shop'
+  action: menu
+  menu: wood
   showpricesininventory: 'true'
-4:
+13:
+  item: STONE
+  amount: 1
+  name: '&bStone shop'
+  action: menu
+  menu: stone
+  showpricesininventory: 'true'
+14:
+  item: WHEAT
+  amount: 1
+  name: '&bFarming shop'
+  action: menu
+  menu: farm
+  showpricesininventory: 'true'
+16:
+  item: 
+  amount: 1
+  name: '&bView island warps'
+  action: command
+  command: /is warps
+17:
   item: COMPASS
   amount: 1
   name: '&bView island warps'
   action: command
   command: /is warps
-5:
-  item: IRON_HOE
+21:
+  item: WHITE_DYE
   amount: 1
-  name: '&bBuy island expansions'
+  name: '&bDye shop'
+  action: menu
+  menu: color
+  showpricesininventory: 'true'
+22:
+  item: IRON_ORE
+  amount: 1
+  name: '&bOre'
+  action: menu
+  menu: ores
+  showpricesininventory: 'true'
+23:
+  item: BRICKS
+  amount: 1
+  name: '&bBuilding shop'
+  action: menu
+  menu: build
+  showpricesininventory: 'true'

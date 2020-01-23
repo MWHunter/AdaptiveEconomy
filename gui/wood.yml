@@ -1,0 +1,61 @@
+slots: 9
+name: 'Wood Shop'
+0:
+  item: OAK_LOG
+  buyitem: OAK_LOG
+  buy: item
+  amount: 1
+  name: '&bOak log shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+1:
+  item: SPRUCE_LOG
+  buyitem: SPRUCE_LOG
+  buy: item
+  amount: 1
+  name: '&bSpruce log shop'
+  action: buyconfirm
+  menu: confirmMenu
+2:
+  item: BIRCH_LOG
+  buyitem: BIRCH_LOG
+  buy: item
+  amount: 1
+  name: '&bBirch log shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+3:
+  item: JUNGLE_LOG
+  buyitem: JUNGLE_LOG
+  buy: item
+  amount: 1
+  name: '&bJungle log shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+4:
+  item: ACACIA_LOG
+  buyitem: ACACIA_LOG
+  buy: item
+  amount: 1
+  name: '&bAcacia log shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+5:
+  item: DARK_OAK_LOG
+  buyitem: DARK_OAK_LOG
+  buy: item
+  amount: 1
+  name: '&bDark oak log shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+8:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'

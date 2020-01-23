@@ -1,0 +1,188 @@
+slots: 27
+name: 'Building Shop'
+0:
+  item: BRICKS
+  buyitem: BRICKS
+  buy: item
+  amount: 1
+  name: '&bBricks shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+1:
+  item: SMOOTH_RED_SANDSTONE
+  buyitem: SMOOTH_RED_SANDSTONE
+  buy: item
+  amount: 1
+  name: '&bSmooth red sandstone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+2:
+  item: SMOOTH_SANDSTONE
+  buyitem: SMOOTH_SANDSTONE
+  buy: item
+  amount: 1
+  name: '&bSmooth sandstone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+3:
+  item: PURPUR_BLOCK
+  buyitem: PURPUR_BLOCK
+  buy: item
+  amount: 1
+  name: '&bPurpur block shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+4:
+  item: PURPUR_PILLAR
+  buyitem: PURPUR_PILLAR
+  buy: item
+  amount: 1
+  name: '&bPurpur pillar shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+5:
+  item: SNOW_BLOCK
+  buyitem: SNOW_BLOCK
+  buy: item
+  amount: 1
+  name: '&bSnow block shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+6:
+  item: GLOWSTONE
+  buyitem: GLOWSTONE
+  buy: item
+  amount: 1
+  name: '&bGlowstone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+7:
+  item: END_STONE
+  buyitem: END_STONE
+  buy: item
+  amount: 1
+  name: '&bEndstone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+8:
+  item: CHISELED_QUARTZ_BLOCK
+  buyitem: CHISELED_QUARTZ_BLOCK
+  buy: item
+  amount: 1
+  name: '&bChiseled quartz shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+9:
+  item: QUARTZ_BLOCK
+  buyitem: QUARTZ_BLOCK
+  buy: item
+  amount: 1
+  name: '&bQuartz shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+10:
+  item: QUARTZ_PILLAR
+  buyitem: QUARTZ_PILLAR
+  buy: item
+  amount: 1
+  name: '&bQuartz pillar shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+11:
+  item: PRISMARINE
+  buyitem: PRISMARINE
+  buy: item
+  amount: 1
+  name: '&bPrismarine shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+12:
+  item: PRISMARINE_BRICKS
+  buyitem: PRISMARINE_BRICKS
+  buy: item
+  amount: 1
+  name: '&bPrismarine bricks shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+13:
+  item: DARK_PRISMARINE
+  buyitem: DARK_PRISMARINE
+  buy: item
+  amount: 1
+  name: '&bDark prismarine shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+14:
+  item: SEA_LANTERN
+  buyitem: SEA_LANTERN
+  buy: item
+  amount: 1
+  name: '&bSea lantern shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+15:
+  item: RED_SANDSTONE
+  buyitem: RED_SANDSTONE
+  buy: item
+  amount: 1
+  name: '&bRed sandstone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+16:
+  item: CHISELED_RED_SANDSTONE
+  buyitem: CHISELED_RED_SANDSTONE
+  buy: item
+  amount: 1
+  name: '&bChiseled red sandstone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+17:
+  item: SAND
+  buyitem: SAND
+  buy: item
+  amount: 1
+  name: '&bSand shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+18:
+  item: GRAVEL
+  buyitem: GRAVEL
+  buy: item
+  amount: 1
+  name: '&bGravel shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+19:
+  item: DIRT
+  buyitem: DIRT
+  buy: item
+  amount: 1
+  name: '&bDirt shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+26:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'

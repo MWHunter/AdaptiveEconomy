@@ -1,0 +1,71 @@
+slots: 9
+name: 'Ore Shop'
+0:
+  item: DIAMOND
+  buyitem: DIAMOND
+  buy: item
+  amount: 1
+  name: '&bDiamond shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+1:
+  item: IRON_INGOT
+  buyitem: IRON_INGOT
+  buy: item
+  amount: 1
+  name: '&bIron ingot shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+2:
+  item: GOLD_INGOT
+  buyitem: GOLD_INGOT
+  buy: item
+  amount: 1
+  name: '&bGold ingot shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+3:
+  item: EMERALD
+  buyitem: EMERALD
+  buy: item
+  amount: 1
+  name: '&bEmerald shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+4:
+  item: REDSTONE
+  buyitem: REDSTONE
+  buy: item
+  amount: 1
+  name: '&bRedstone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+5:
+  item: QUARTZ
+  buyitem: QUARTZ
+  buy: item
+  amount: 1
+  name: '&bQuartz shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+6:
+  item: LAPIS_LAZULI
+  buyitem: LAPIS_LAZULI
+  buy: item
+  amount: 1
+  name: '&bLapis lazuli shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+8:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'

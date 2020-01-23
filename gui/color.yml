@@ -1,0 +1,98 @@
+slots: 18
+name: 'Colored blocks shop'
+0:
+  item: TERRACOTTA
+  buyitem: TERRACOTTA
+  buy: item
+  amount: 1
+  name: '&bTerracotta shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+1:
+  item: GLASS
+  buyitem: GLASS
+  buy: item
+  amount: 1
+  name: '&bGlass shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+2:
+  item: WHITE_WOOL
+  buyitem: WHITE_WOOL
+  buy: item
+  amount: 1
+  name: '&bWool shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+3:
+  item: RED_DYE
+  buyitem: RED_DYE
+  buy: item
+  amount: 1
+  name: '&bRed dye shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+4:
+  item: YELLOW_DYE
+  buyitem: YELLOW_DYE
+  buy: item
+  amount: 1
+  name: '&bYellow dye shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+5:
+  item: GREEN_DYE
+  buyitem: GREEN_DYE
+  buy: item
+  amount: 1
+  name: '&bGreen dye shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+6:
+  item: BLACK_DYE
+  buyitem: BLACK_DYE
+  buy: item
+  amount: 1
+  name: '&bBlack dye shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+7:
+  item: BROWN_DYE
+  buyitem: BROWN_DYE
+  buy: item
+  amount: 1
+  name: '&bBrown dye shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+8:
+  item: BLUE_DYE
+  buyitem: BLUE_DYE
+  buy: item
+  amount: 1
+  name: '&bBlue dye shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+9:
+  item: WHITE_DYE
+  buyitem: WHITE_DYE
+  buy: item
+  amount: 1
+  name: '&bWhite dye shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+17:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'

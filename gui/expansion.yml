@@ -1,0 +1,190 @@
+slots: 18
+name: 'Buy Island Expansions'
+0:
+  item: CAT_SPAWN_EGG
+  buyitem: CAT_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bBirch Forest Island Spawnegg'
+  itemName: '&bBirch Forest Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: birch'
+    - 'Size: 24 x 26'
+    - ''
+    - 'Biome: birch_forest'
+    - 'Biome Range: 32'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+1:
+  item: RABBIT_SPAWN_EGG
+  buyitem: RABBIT_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bDark Oak Forest Island Spawnegg'
+  itemName: '&bDark Oak Forest Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: darkoak'
+    - 'Size: 36 x 37'
+    - ''
+    - 'Biome: dark_forest'
+    - 'Biome Range: 48'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+2:
+  item: LLAMA_SPAWN_EGG
+  buyitem: LLAMA_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bOak Forest Island Spawnegg'
+  itemName: '&bOak Forest Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: forest'
+    - 'Size: 20 x 30'
+    - ''
+    - 'Biome: forest'
+    - 'Biome Range: 48'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+3:
+  item: CREEPER_SPAWN_EGG
+  buyitem: CREEPER_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bJungle Island Spawnegg'
+  itemName: '&bJungle Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: jungle'
+    - 'Size: 38 x 47'
+    - ''
+    - 'Biome: jungle'
+    - 'Biome Range: 48'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+4:
+  item: SHEEP_SPAWN_EGG
+  buyitem: SHEEP_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bMushroom Island Spawnegg'
+  itemName: '&bMushroom Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: mushroom'
+    - 'Size: 45 x 58'
+    - ''
+    - 'Biome: mushroom_fields'
+    - 'Biome Range: 64'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+5:
+  item: DROWNED_SPAWN_EGG
+  buyitem: DROWNED_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bPlains Island Spawnegg'
+  itemName: '&bPlains Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: villageplains'
+    - 'Size: 28 x 28'
+    - ''
+    - 'Biome: plains'
+    - 'Biome Range: 32'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+    - ''
+    - 'Contains lava pool and village'
+6:
+  item: BLAZE_SPAWN_EGG
+  buyitem: BLAZE_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bSavanna Island Spawnegg'
+  itemName: '&bSavanna Forest Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: savanna'
+    - 'Size: 57 x 57'
+    - ''
+    - 'Biome: savanna'
+    - 'Biome Range: 64'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+7:
+  item: PILLAGER_SPAWN_EGG
+  buyitem: PILLAGER_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bSpruce Island Spawnegg'
+  itemName: '&bSpruce Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: spruce'
+    - 'Size: 42 x 48'
+    - ''
+    - 'Biome: snowy_tundra'
+    - 'Biome Range: 48'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+8:
+  item: SLIME_SPAWN_EGG
+  buyitem: SLIME_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bSwamp Island Spawnegg'
+  itemName: '&bSwamp Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: swamp'
+    - 'Size: 48 x 44'
+    - ''
+    - 'Biome: swamp'
+    - 'Biome Range: 48'
+    - ''
+    - 'Right click to paste island'
+    - 'Clicked block will be the center'
+17:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'

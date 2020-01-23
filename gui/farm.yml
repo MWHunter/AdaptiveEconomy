@@ -1,0 +1,224 @@
+slots: 36
+name: 'Farm Shop'
+0:
+  item: CARROT
+  buyitem: CARROT
+  buy: item
+  amount: 1
+  name: '&bCarrot shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+1:
+  item: POTATO
+  buyitem: POTATO
+  buy: item
+  amount: 1
+  name: '&bPotato shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+2:
+  item: WHEAT
+  buyitem: WHEAT
+  buy: item
+  amount: 1
+  name: '&bWheat shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+3:
+  item: SUGAR_CANE
+  buyitem: SUGAR_CANE
+  buy: item
+  amount: 1
+  name: '&bSugarcane shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+4:
+  item: MELON_SLICE
+  buyitem: MELON_SLICE
+  buy: item
+  amount: 1
+  name: '&bMelon shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+5:
+  item: PUMPKIN
+  buyitem: PUMPKIN
+  buy: item
+  amount: 1
+  name: '&Pumpkin shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+6:
+  item: NETHER_WART
+  buyitem: NETHER_WART
+  buy: item
+  amount: 1
+  name: '&bNether wart shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+7:
+  item: LEATHER
+  buyitem: LEATHER
+  buy: item
+  amount: 1
+  name: '&bLeather shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+8:
+  item: STRING
+  buyitem: STRING
+  buy: item
+  amount: 1
+  name: '&bString shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+9:
+  item: FEATHER
+  buyitem: FEATHER
+  buy: item
+  amount: 1
+  name: '&bFeather shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+10:
+  item: ROTTEN_FLESH
+  buyitem: ROTTEN_FLESH
+  buy: item
+  amount: 1
+  name: '&bRotten flesh shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+11:
+  item: BLAZE_ROD
+  buyitem: BLAZE_ROD
+  buy: item
+  amount: 1
+  name: '&bBlaze rod shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+12:
+  item: GUNPOWDER
+  buyitem: GUNPOWDER
+  buy: item
+  amount: 1
+  name: '&bGunpowder shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+13:
+  item: GHAST_TEAR
+  buyitem: GHAST_TEAR
+  buy: item
+  amount: 1
+  name: '&bGhast tear shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+14:
+  item: MAGMA_CREAM
+  buyitem: MAGMA_CREAM
+  buy: item
+  amount: 1
+  name: '&bMagma cream shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+15:
+  item: BONE
+  buyitem: BONE
+  buy: item
+  amount: 1
+  name: '&bBone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+16:
+  item: ARROW
+  buyitem: ARROW
+  buy: item
+  amount: 1
+  name: '&bArrow shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+17:
+  item: COOKED_CHICKEN
+  buyitem: COOKED_CHICKEN
+  buy: item
+  amount: 1
+  name: '&bCooked chicken shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+18:
+  item: COOKED_COD
+  buyitem: COOKED_COD
+  buy: item
+  amount: 1
+  name: '&bCooked cod shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+19:
+  item: COOKED_BEEF
+  buyitem: COOKED_BEEF
+  buy: item
+  amount: 1
+  name: '&bSteak shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+20:
+  item: COOKED_PORKCHOP
+  buyitem: COOKED_PORKCHOP
+  buy: item
+  amount: 1
+  name: '&bCooked porkchop shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+21:
+  item: COOKED_SALMON
+  buyitem: COOKED_SALMON
+  buy: item
+  amount: 1
+  name: '&bCooked salmon shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+22:
+  item: COOKED_RABBIT
+  buyitem: COOKED_RABBIT
+  buy: item
+  amount: 1
+  name: '&bCooked rabbit shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+23:
+  item: RABBIT_HIDE
+  buyitem: RABBIT_HIDE
+  buy: item
+  amount: 1
+  name: '&bRabbit hide shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+35:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'

@@ -1,0 +1,80 @@
+slots: 9
+name: 'Stone Shop'
+0:
+  item: COBBLESTONE
+  buyitem: COBBLESTONE
+  buy: item
+  amount: 1
+  name: '&bCobblestone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+1:
+  item: STONE
+  buyitem: STONE
+  buy: item
+  amount: 1
+  name: '&bStone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+2:
+  item: GRANITE
+  buyitem: GRANITE
+  buy: item
+  amount: 1
+  name: '&bGranite shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+3:
+  item: DIORITE
+  buyitem: DIORITE
+  buy: item
+  amount: 1
+  name: '&bDiorite shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+4:
+  item: ANDESITE
+  buyitem: ANDESITE
+  buy: item
+  amount: 1
+  name: '&bAndesite shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+5:
+  item: MOSSY_STONE_BRICKS
+  buyitem: MOSSY_STONE_BRICKS
+  buy: item
+  amount: 1
+  name: '&bMossy stone bricks shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+6:
+  item: CRACKED_STONE_BRICKS
+  buyitem: CRACKED_STONE_BRICKS
+  buy: item
+  amount: 1
+  name: '&bCracked stone bricks shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+7:
+  item: MOSSY_COBBLESTONE
+  buyitem: MOSSY_COBBLESTONE
+  buy: item
+  amount: 1
+  name: '&bMossy cobblestone shop'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+8:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'
