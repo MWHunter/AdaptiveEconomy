@@ -1,0 +1,38 @@
+slots: 27
+name: 'Are you sure?'
+9:
+  item: GREEN_TERRACOTTA
+  amount: 1
+  name: '&aBuy 1'
+  action: buy
+10:
+  item: GREEN_TERRACOTTA
+  amount: 10
+  name: '&aBuy 10'
+  action: buy
+11:
+  item: GREEN_TERRACOTTA
+  amount: 64
+  name: '&aBuy 64'
+  action: buy
+15:
+  item: BLUE_TERRACOTTA
+  amount: 1
+  action: sell
+  name: '&bSell 1'
+16:
+  item: BLUE_TERRACOTTA
+  amount: 10
+  action: sell
+  name: '&bSell 10'
+17:
+  item: BLUE_TERRACOTTA
+  amount: 64
+  action: sell
+  name: '&bSell 64'
+26:
+  item: FEATHER
+  action: menu
+  menu: menu
+  amount: 1
+  name: '&cGo back'

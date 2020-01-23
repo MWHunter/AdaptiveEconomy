@@ -1,0 +1,25 @@
+slots: 9
+name: 'Abyss Menu'
+0:
+  item: GRASS_BLOCK
+  amount: 1
+  name: '&bTeleport to your island'
+  action: command
+  command: /is home
+3:
+  item: WHITE_BED
+  amount: 1
+  name: '&bBuy island homes'
+  action: menu
+  menu: homesMenu
+  showpricesininventory: 'true'
+4:
+  item: COMPASS
+  amount: 1
+  name: '&bView island warps'
+  action: command
+  command: /is warps
+5:
+  item: IRON_HOE
+  amount: 1
+  name: '&bBuy island expansions'

@@ -1,0 +1,43 @@
+<project>
+  <repositories>
+    <repository>
+        <id>spigot-repo</id>
+        <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+    </repository>
+    <!--Bungeecord Repo-->
+    <!--Only include if using the Spigot API dependency-->
+    <repository>
+       <id>bungeecord-repo</id>
+       <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+    </repository>
+    	<repository>
+		<id>jitpack.io</id>
+		<url>https://jitpack.io</url>
+	</repository>
+    <repository>
+      <id>fawe-repo</id>
+      <url>https://ci.athion.net/job/FastAsyncWorldEdit-Breaking/ws/mvn</url>
+    </repository>
+  </repositories>
+  <dependencies>
+    <!--Spigot API-->
+    <!--You only need one of the two, don't put both. Spigot is recommended.-->
+    <dependency>
+           <groupId>org.spigotmc</groupId>
+           <artifactId>spigot-api</artifactId>
+           <version>1.14.2-R0.1-SNAPSHOT</version>
+           <scope>provided</scope>
+    </dependency>
+    <dependency>
+        <groupId>com.github.MilkBowl</groupId>
+        <artifactId>VaultAPI</artifactId>
+        <version>1.7</version>
+        <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.boydti</groupId>
+      <artifactId>fawe-api</artifactId>
+        <version>latest</version>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,9 @@
+name: AbyssSkyblock
+main: define.main.AbyssSkyblock
+version: 0.0
+author: DefineOutside
+api-version: 1.13
+depend: [Vault]
+commands:
+  menu:
+    description: Abyss Main Skyblock Menu

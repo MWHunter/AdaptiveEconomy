@@ -1,0 +1,35 @@
+slots: 27
+name: 'Buy Island Homes'
+3:
+  item: WHITE_WOOL
+  buyitem: WHITE_WOOL
+  buy: item
+  amount: 1
+  name: '&bBuy one home'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 64
+4:
+  item: WITCH_SPAWN_EGG
+  buyitem: WITCH_SPAWN_EGG
+  buy: item
+  amount: 1
+  name: '&bSpruce Forest Island Spawnegg'
+  itemname: '&bSpruce Forest Island Spawnegg'
+  action: buyconfirm
+  menu: confirmMenu
+  maxBuyAmount: 1
+  lore:
+    - 'Spawns an island'
+    - 'Island: test'
+5:
+  item: WHITE_WOOL
+  amount: 3
+  name: '&bBuy three homes'
+  action: menu
+  menu: confirmMenu
+8:
+  item: ARROW
+  name: '&cGo back'
+  action: menu
+  menu: confirmMenu

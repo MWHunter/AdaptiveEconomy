@@ -1,0 +1,8 @@
+WHITE_WOOL:
+  sellprice: 0.9
+  marketcap: 6400
+  totalworth: 64000
+WITCH_SPAWN_EGG:
+  sellprice: 0.0
+  marketcap: 1000
+  totalworth: 6400000
