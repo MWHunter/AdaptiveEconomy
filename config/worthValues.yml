@@ -1,8 +1,382 @@
-WHITE_WOOL:
+OAK_LOG:
   sellprice: 0.9
-  marketcap: 6400
-  totalworth: 64000
-WITCH_SPAWN_EGG:
-  sellprice: 0.0
-  marketcap: 1000
-  totalworth: 6400000
+  marketcap: 505.0111857934686
+  totalworth: 2563.2200000000003
+  targetprice: 5
+SPRUCE_LOG:
+  sellprice: 0.9
+  marketcap: 10.27183711054852
+  totalworth: 52.40641370777077
+  targetprice: 5
+BIRCH_LOG:
+  sellprice: 0.9
+  marketcap: 9.578970913292554
+  totalworth: 2.1863269389258727E8
+  targetprice: 5
+JUNGLE_LOG:
+  sellprice: 0.9
+  marketcap: 14.511928663310005
+  totalworth: 1889.1545135403185
+  targetprice: 5
+ACACIA_LOG:
+  sellprice: 0.9
+  marketcap: 296.8573164841755
+  totalworth: 1514.3966675423399
+  targetprice: 5
+DARK_OAK_LOG:
+  sellprice: 0.9
+  marketcap: 296.8573164841755
+  totalworth: 1514.3966675423399
+  targetprice: 5
+COBBLESTONE:
+  sellprice: 0.75
+  marketcap: -67868.46906943098
+  totalworth: -138370.86761098015
+  targetprice: 2
+STONE:
+  sellprice: 0.75
+  marketcap: 2374.858531873404
+  totalworth: 6057.586670169359
+  targetprice: 2.5
+GRANITE:
+  sellprice: 0.75
+  marketcap: 8.45119813691281
+  totalworth: 43.95641831069925
+  targetprice: 5
+DIORITE:
+  sellprice: 0.75
+  marketcap: 8.85315824829972
+  totalworth: 46.0470954566019
+  targetprice: 5
+ANDESITE:
+  sellprice: 0.75
+  marketcap: 8.45119813691281
+  totalworth: 43.95641831069925
+  targetprice: 5
+MOSSY_STONE_BRICKS:
+  sellprice: 0.75
+  marketcap: 6.866598486241654
+  totalworth: 28.848562694656426
+  targetprice: 4
+CRACKED_STONE_BRICKS:
+  sellprice: 0.75
+  marketcap: 6.760958509530244
+  totalworth: 28.40473865320017
+  targetprice: 4
+MOSSY_COBBLESTONE:
+  sellprice: 0.75
+  marketcap: 6.760958509530244
+  totalworth: 28.40473865320017
+  targetprice: 4
+DIAMOND:
+  sellprice: 0.98
+  marketcap: 845.1198136912802
+  totalworth: 402903.8043455702
+  targetprice: 500
+IRON_INGOT:
+  sellprice: 0.95
+  marketcap: 126.76797205369208
+  totalworth: 9700.284019743818
+  targetprice: 75
+GOLD_INGOT:
+  sellprice: 0.95
+  marketcap: 126.76797205369208
+  totalworth: 9699.69817706968
+  targetprice: 75
+EMERALD:
+  sellprice: 0.95
+  marketcap: 169.02396273825605
+  totalworth: 17245.615594646584
+  targetprice: 100
+REDSTONE:
+  sellprice: 0.95
+  marketcap: 169.02396273825605
+  totalworth: 17245.01337486363
+  targetprice: 100
+QUARTZ:
+  price: 50
+  sellprice: 0.95
+LAPIS_LAZULI:
+  sellprice: 0.95
+  marketcap: 296.8573164841756
+  totalworth: 4543.1900026270205
+  targetprice: 15
+BRICKS:
+  price: 5
+  sellprice: 0.95
+SMOOTH_RED_SANDSTONE:
+  sellprice: 0.8
+  marketcap: 1187.429265936702
+  totalworth: 6057.586670169359
+  targetprice: 5
+SMOOTH_SANDSTONE:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.10444664084727
+  targetprice: 5
+PURPUR_BLOCK:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.10444664084727
+  targetprice: 5
+PURPUR_PILLAR:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.10444664084727
+  targetprice: 5
+SNOW_BLOCK:
+  sellprice: 0.8
+  marketcap: 3.380479254765122
+  totalworth: 6.896636595841792
+  targetprice: 2
+GLOWSTONE:
+  price: 5
+  sellprice: 0.95
+END_STONE:
+  sellprice: 0.75
+  marketcap: 4.225599068456405
+  totalworth: 11.415090412600833
+  targetprice: 2.5
+CHISELED_QUARTZ_BLOCK:
+  price: 5
+  sellprice: 0.95
+PRISMARINE:
+  price: 10
+  sellprice: 0.95
+PRISMARINE_BRICKS:
+  price: 10
+  sellprice: 0.95
+DARK_PRISMARINE:
+  price: 10
+  sellprice: 0.95
+SEA_LANTERN:
+  price: 10
+  sellprice: 0.95
+QUARTZ_BLOCK:
+  price: 10
+  sellprice: 0.95
+QUARTZ_PILLAR:
+  price: 10
+  sellprice: 0.95
+RED_SANDSTONE:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.117602150696804
+  targetprice: 5
+CHISELED_RED_SANDSTONE:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.10444664084727
+  targetprice: 5
+SAND:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.117602150696804
+  targetprice: 5
+GRAVEL:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.117602150696804
+  targetprice: 5
+TERRACOTTA:
+  sellprice: 0.8
+  marketcap: 296.8573164841755
+  totalworth: 1514.3966675423399
+  targetprice: 5
+WHITE_WOOL:
+  sellprice: 0.8
+  marketcap: 296.8573164841756
+  totalworth: 1514.0552066364485
+  targetprice: 5
+GLASS:
+  sellprice: 0.8
+  marketcap: 8.45119813691281
+  totalworth: 43.117602150696804
+  targetprice: 5
+RED_DYE:
+  sellprice: 0.8
+  marketcap: 16.90239627382562
+  totalworth: 172.46015989108236
+  targetprice: 10
+YELLOW_DYE:
+  sellprice: 0.8
+  marketcap: 16.90239627382562
+  totalworth: 172.46015989108236
+  targetprice: 10
+GREEN_DYE:
+  sellprice: 0.8
+  marketcap: 16.90239627382562
+  totalworth: 172.46015989108236
+  targetprice: 10
+BLACK_DYE:
+  sellprice: 0.8
+  marketcap: 16.90239627382562
+  totalworth: 172.46015989108236
+  targetprice: 10
+BROWN_DYE:
+  sellprice: 0.8
+  marketcap: 296.8573164841755
+  totalworth: 3028.7933350846797
+  targetprice: 10
+BLUE_DYE:
+  sellprice: 0.8
+  marketcap: 16.90239627382562
+  totalworth: 172.46015989108236
+  targetprice: 10
+WHITE_DYE:
+  sellprice: 0.8
+  marketcap: 16.90239627382562
+  totalworth: 172.46015989108236
+  targetprice: 10
+CARROT:
+  sellprice: 0.55
+  marketcap: 3.380479254765122
+  totalworth: 8.123550667122476
+  targetprice: 2
+POTATO:
+  sellprice: 0.55
+  marketcap: 3.380479254765122
+  totalworth: 8.123550667122476
+  targetprice: 2
+WHEAT:
+  sellprice: 0.55
+  marketcap: 3.380479254765122
+  totalworth: 8.123550667122476
+  targetprice: 2
+SUGAR_CANE:
+  sellprice: 0.55
+  marketcap: 3.380479254765122
+  totalworth: 8.123550667122476
+  targetprice: 2
+MELON_SLICE:
+  sellprice: 0.55
+  marketcap: 1.690239627382561
+  totalworth: 2.371676334721429
+  targetprice: 1
+PUMPKIN:
+  sellprice: 0.55
+  marketcap: 3.380479254765122
+  totalworth: 8.123550667122476
+  targetprice: 2
+NETHER_WART:
+  sellprice: 0.55
+  marketcap: 3.381593426394502
+  totalworth: 8.126228106917546
+  targetprice: 2
+LEATHER:
+  sellprice: 0.55
+  marketcap: 1.690239627382561
+  totalworth: 2.371676334721429
+  targetprice: 1
+STRING:
+  sellprice: 0.55
+  marketcap: 4749.71706374681
+  totalworth: 4846.06933613549
+  targetprice: 1
+FEATHER:
+  sellprice: 0.55
+  marketcap: 4749.71706374681
+  totalworth: 4846.06933613549
+  targetprice: 1
+BLAZE_ROD:
+  sellprice: 0.55
+  marketcap: 5.07133786638623
+  totalworth: 17.257729396494806
+  targetprice: 3
+GUNPOWDER:
+  sellprice: 0.55
+  marketcap: 1.690239627382561
+  totalworth: 2.371676334721429
+  targetprice: 1
+GHAST_TEAR:
+  sellprice: 0.55
+  marketcap: 28.989972312907796
+  totalworth: 14789.029956468177
+  targetprice: 500
+MAGMA_CREAM:
+  sellprice: 0.55
+  marketcap: 2374.858531873404
+  totalworth: 12115.173340338719
+  targetprice: 5
+BONE:
+  sellprice: 0.55
+  marketcap: 4749.71706374681
+  totalworth: 4846.06933613549
+  targetprice: 1
+ARROW:
+  sellprice: 0.55
+  marketcap: 4749.71706374681
+  totalworth: 4846.06933613549
+  targetprice: 1
+COOKED_CHICKEN:
+  sellprice: 0.8
+  marketcap: 2374.858531873405
+  totalworth: 12115.24399304157
+  targetprice: 5
+COOKED_COD:
+  sellprice: 0.8
+  marketcap: 2374.858531873405
+  totalworth: 12115.24399304157
+  targetprice: 5
+COOKED_BEEF:
+  sellprice: 0.8
+  marketcap: 2374.858531873405
+  totalworth: 12115.24399304157
+  targetprice: 5
+COOKED_PORKCHOP:
+  sellprice: 0.8
+  marketcap: 2374.858531873405
+  totalworth: 12115.24399304157
+  targetprice: 5
+COOKED_SALMON:
+  sellprice: 0.8
+  marketcap: 6.760958509530244
+  totalworth: 35.16513464855942
+  targetprice: 5
+COOKED_RABBIT:
+  sellprice: 0.8
+  marketcap: 6.760958509530244
+  totalworth: 35.16513464855942
+  targetprice: 5
+RABBIT_HIDE:
+  sellprice: 0.8
+  marketcap: 6.760958509530244
+  totalworth: 35.16513464855942
+  targetprice: 5
+ROTTEN_FLESH:
+  sellprice: 0.55
+  marketcap: 1.690239627382561
+  totalworth: 2.371676334721429
+  targetprice: 1
+DIRT:
+  sellprice: 0.8
+  marketcap: 6.760958509530244
+  totalworth: 28.40473865320017
+  targetprice: 4
+CAT_SPAWN_EGG:
+  price: 10000
+  sellprice: 0.95
+RABBIT_SPAWN_EGG:
+  price: 20000
+  sellprice: 0.95
+LLAMA_SPAWN_EGG:
+  price: 20000
+  sellprice: 0.95
+CREEPER_SPAWN_EGG:
+  price: 25000
+  sellprice: 0.95
+SHEEP_SPAWN_EGG:
+  price: 40000
+  sellprice: 0.95
+DROWNED_SPAWN_EGG:
+  price: 45000
+  sellprice: 0.95
+BLAZE_SPAWN_EGG:
+  price: 45000
+  sellprice: 0.95
+PILLAGER_SPAWN_EGG:
+  price: 35000
+  sellprice: 0.95
+SLIME_SPAWN_EGG:
+  price: 30000
+  sellprice: 0.95
